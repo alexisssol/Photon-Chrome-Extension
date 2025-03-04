@@ -2,7 +2,7 @@
 
 Photon Chrome Extension is designed to display the token creator's funding wallet address and its SOL and token balance. If the funding wallet belongs to a Centralized Exchange (CEX), the extension will also show the CEX name (e.g., Coinbase). The extension adds a "Show Funding" button on the [Photon Memescope](https://photon-sol.tinyastro.io/en/memescope/*) page for easy access to wallet details.
 
-https://github.com/user-attachments/assets/7bc2fe6d-c293-4e9a-9e95-544be79de2c0
+
 
 ## Features
 
