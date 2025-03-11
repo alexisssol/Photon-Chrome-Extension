@@ -64,5 +64,5 @@ npx webpack --config webpack.config
 
 ## Contact
 
-Telegram ID: @ethualtera 
+Telegram ID: @ilertha 
 X ID: @ilertha 
