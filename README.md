@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/03fe9e41-0397-4b74-936b-2e0e99c32c83
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ilertha/Photon-Chrome-Extension.git
+git clone https://github.com/alexisssol/Photon-Chrome-Extension.git
 cd Photon-Chrome-Extension
 ```
 
@@ -64,5 +64,5 @@ npx webpack --config webpack.config
 
 ## Contact
 
-Telegram ID: @ilertha 
-X ID: @ilertha 
+Telegram ID: @alexisssol 
+X ID: @alexis_s_sol 
